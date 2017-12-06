@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShadeView.iml" filepath="$PROJECT_DIR$/ShadeView.iml" />
+      <module fileurl="file://D:\androidgitprojects\ShadeView\ShadeView2.iml" filepath="D:\androidgitprojects\ShadeView\ShadeView2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
